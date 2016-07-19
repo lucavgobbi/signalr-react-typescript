@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "outDir": "./Scripts/",
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5",
+    "module": "commonjs",
+    "jsx": "react"
+  },
+  "exclude": [
+    "node_modules",
+    "wwwroot"
+  ]
+}
